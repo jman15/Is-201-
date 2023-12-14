@@ -1,0 +1,23 @@
+body {
+    background-color:lightgray;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+
+.J1 {
+        border: 1px solid;
+        margin: 50px;
+}
+
+.j2 {
+    top: 15px;
+    text-decoration-color: aqua;
+    
+}
+
+.j3 {
+    bottom: 15px;
+    right: 30px;
+    margin: 40px;
+    font-family: 'Courier New', Courier, monospace;
+}
